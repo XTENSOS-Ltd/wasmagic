@@ -1,6 +1,6 @@
 {
   "name": "@lengoo/wasmagic",
-  "version": "0.0.0-dev",
+  "version": "0.1.0",
   "description": "WASM compiled version of libmagic",
   "repository": "lengoo/wasmagic",
   "keywords": [
